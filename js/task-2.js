@@ -1,6 +1,5 @@
 `use strict`;
 
-    
 function makeArray(firstArray, secondArray, maxLength) {
     let newArray = firstArray.slice(0);
 
